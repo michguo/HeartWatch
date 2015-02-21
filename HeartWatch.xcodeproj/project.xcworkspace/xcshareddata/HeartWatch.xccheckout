@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>140CD019-A10D-4277-8C78-3F1FA2B353E3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HeartWatch</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4EC7019E58AB21AFE55D6750DF897FE6BA362271</key>
+		<string>https://github.com/shellguo95/HeartWatch.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HeartWatch.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4EC7019E58AB21AFE55D6750DF897FE6BA362271</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/shellguo95/HeartWatch.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4EC7019E58AB21AFE55D6750DF897FE6BA362271</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4EC7019E58AB21AFE55D6750DF897FE6BA362271</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HeartWatch</string>
+		</dict>
+	</array>
+</dict>
+</plist>
