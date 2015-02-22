@@ -16,6 +16,7 @@
 		2C6930961A993700007EAF0D /* HeartWatchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C6930951A993700007EAF0D /* HeartWatchTests.swift */; };
 		2C6930A01A993AE7007EAF0D /* beatingHeart.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2C69309F1A993AE7007EAF0D /* beatingHeart.jpeg */; };
 		2C6930A41A9944CC007EAF0D /* input2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C6930A31A9944CC007EAF0D /* input2.swift */; };
+		349DB7A91A9991B100A6C553 /* calculate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 349DB7A81A9991B100A6C553 /* calculate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +43,7 @@
 		2C6930951A993700007EAF0D /* HeartWatchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeartWatchTests.swift; sourceTree = "<group>"; };
 		2C69309F1A993AE7007EAF0D /* beatingHeart.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = beatingHeart.jpeg; sourceTree = "<group>"; };
 		2C6930A31A9944CC007EAF0D /* input2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = input2.swift; sourceTree = "<group>"; };
+		349DB7A81A9991B100A6C553 /* calculate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = calculate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 				2C6930811A993700007EAF0D /* ViewController.swift */,
 				2C6930831A993700007EAF0D /* Main.storyboard */,
 				2C6930A31A9944CC007EAF0D /* input2.swift */,
+				349DB7A81A9991B100A6C553 /* calculate.swift */,
 				2C6930861A993700007EAF0D /* Images.xcassets */,
 				2C6930881A993700007EAF0D /* LaunchScreen.xib */,
 				2C69307E1A993700007EAF0D /* HeartWatch.xcdatamodeld */,
@@ -223,6 +226,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2C6930A41A9944CC007EAF0D /* input2.swift in Sources */,
+				349DB7A91A9991B100A6C553 /* calculate.swift in Sources */,
 				2C6930821A993700007EAF0D /* ViewController.swift in Sources */,
 				2C6930801A993700007EAF0D /* HeartWatch.xcdatamodeld in Sources */,
 				2C69307D1A993700007EAF0D /* AppDelegate.swift in Sources */,
@@ -417,6 +421,7 @@
 				2C69309B1A993700007EAF0D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2C69309C1A993700007EAF0D /* Build configuration list for PBXNativeTarget "HeartWatchTests" */ = {
 			isa = XCConfigurationList;
@@ -425,6 +430,7 @@
 				2C69309E1A993700007EAF0D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
