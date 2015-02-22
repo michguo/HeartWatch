@@ -16,9 +16,6 @@
 		2C6930961A993700007EAF0D /* HeartWatchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C6930951A993700007EAF0D /* HeartWatchTests.swift */; };
 		2C6930A01A993AE7007EAF0D /* beatingHeart.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2C69309F1A993AE7007EAF0D /* beatingHeart.jpeg */; };
 		2C6930A41A9944CC007EAF0D /* input2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C6930A31A9944CC007EAF0D /* input2.swift */; };
-		2CE47F691A99B0FD0001E567 /* HeartWatch Background5.png in Resources */ = {isa = PBXBuildFile; fileRef = 2CE47F681A99B0FD0001E567 /* HeartWatch Background5.png */; };
-		2CE47F6B1A99B1010001E567 /* HeartWatch Button5.png in Resources */ = {isa = PBXBuildFile; fileRef = 2CE47F6A1A99B1010001E567 /* HeartWatch Button5.png */; };
-		2CE47F6D1A99B1070001E567 /* HeartWatch Logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 2CE47F6C1A99B1070001E567 /* HeartWatch Logo.png */; };
 		349DB7A91A9991B100A6C553 /* calculate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 349DB7A81A9991B100A6C553 /* calculate.swift */; };
 /* End PBXBuildFile section */
 
@@ -46,9 +43,6 @@
 		2C6930951A993700007EAF0D /* HeartWatchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeartWatchTests.swift; sourceTree = "<group>"; };
 		2C69309F1A993AE7007EAF0D /* beatingHeart.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = beatingHeart.jpeg; sourceTree = "<group>"; };
 		2C6930A31A9944CC007EAF0D /* input2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = input2.swift; sourceTree = "<group>"; };
-		2CE47F681A99B0FD0001E567 /* HeartWatch Background5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "HeartWatch Background5.png"; sourceTree = "<group>"; };
-		2CE47F6A1A99B1010001E567 /* HeartWatch Button5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "HeartWatch Button5.png"; sourceTree = "<group>"; };
-		2CE47F6C1A99B1070001E567 /* HeartWatch Logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "HeartWatch Logo.png"; sourceTree = "<group>"; };
 		349DB7A81A9991B100A6C553 /* calculate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = calculate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -108,9 +102,6 @@
 			isa = PBXGroup;
 			children = (
 				2C69309F1A993AE7007EAF0D /* beatingHeart.jpeg */,
-				2CE47F681A99B0FD0001E567 /* HeartWatch Background5.png */,
-				2CE47F6C1A99B1070001E567 /* HeartWatch Logo.png */,
-				2CE47F6A1A99B1010001E567 /* HeartWatch Button5.png */,
 				2C69307B1A993700007EAF0D /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -213,13 +204,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2CE47F691A99B0FD0001E567 /* HeartWatch Background5.png in Resources */,
-				2CE47F6D1A99B1070001E567 /* HeartWatch Logo.png in Resources */,
 				2C6930851A993700007EAF0D /* Main.storyboard in Resources */,
 				2C69308A1A993700007EAF0D /* LaunchScreen.xib in Resources */,
 				2C6930871A993700007EAF0D /* Images.xcassets in Resources */,
 				2C6930A01A993AE7007EAF0D /* beatingHeart.jpeg in Resources */,
-				2CE47F6B1A99B1010001E567 /* HeartWatch Button5.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
