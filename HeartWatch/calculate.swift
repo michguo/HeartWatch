@@ -11,8 +11,8 @@ import UIKit
 class calculate: UITableViewController {
 
     func calculate(){
-        var htm = 220 - age - 0.5*weight + 0.12*height + 3*woman
-        return htm
+       // var htm = 220 - age - 0.5*weight + 0.12*height + 3*woman
+       // return htm
     }
     
     override func viewDidLoad() {
